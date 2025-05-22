@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    padding: 0 7% 0 7%;
+    font-size: large;
+}
+textarea {
+    width: 100%;
+    height: 100px;
+    font-size: large;
+}
+ol li { cursor: pointer; }
+ol li a {
+    text-decoration: none;
+}
+ol li a#editpencil {
+    margin-left: 1%;
+}
+form input.formtop {
+    font-size: large;
+    width: 100%;
+}
+form button#formbutton {
+    font-size: large;
+    margin: 3% 0 3% 0;
+}
+.previousentry {
+    display: none;
+    margin-left: 72px;
+}

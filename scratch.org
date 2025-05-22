@@ -1,0 +1,6 @@
+* Scratch
+
+* TODO - install Iosevka font - add to .emacs
+* TODO - install GHCP
+* DONE - revise .emacs frm MacOS to WIN11
+* TODO theme gruber darker
